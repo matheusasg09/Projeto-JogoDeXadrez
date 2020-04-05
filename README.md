@@ -18,7 +18,7 @@
 
 ## ◾ Projeto
 
-Este projeto foi desenvolvido em C# sem utilizar nenhuma ferramenta para interface, o objetivo era aperfeiçoar a lógica de programação e a sintaxe da linguagem.
+Este projeto foi desenvolvido em C# sem utilizar nenhuma ferramenta para interface gráfica, o objetivo era aperfeiçoar a lógica de programação e a sintaxe da linguagem.
 
 ## ◾ Tecnologias
 
