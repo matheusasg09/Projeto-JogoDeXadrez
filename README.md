@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-JogoDeXadrez">
   
-  <a href="https://github.com/matheusasg09/Projeto-JogoDeXadrez/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-JogoDeXadrez">
-  </a>
+  <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Projeto-JogoDeXadrez">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img  src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
+  
+  <img alt="License" src="https://badgen.net/badge/license/MIT/blue">
+  
 </p>
 
 <p align="center">
